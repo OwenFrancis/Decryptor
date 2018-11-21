@@ -1,0 +1,1 @@
+This is a short amount of text to be encrypted. This will show that this decryption method isn't good at small amounts of text because it is too short to get a proper average frequency across. As such, this is going to become incoherent when it is decrypted.
